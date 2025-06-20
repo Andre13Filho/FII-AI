@@ -1,0 +1,91 @@
+{
+    "investments": [
+        {
+            "ticker": "KNSC11",
+            "tipo": "CRI",
+            "preco_medio": 8.532424242424243,
+            "quantidade": 33,
+            "data_inicial": "2025-05-02",
+            "transacoes": [
+                {
+                    "data": "2025-05-02",
+                    "operacao": "compra",
+                    "quantidade": 1,
+                    "preco": 0.01
+                },
+                {
+                    "data": "2025-05-02",
+                    "operacao": "compra",
+                    "quantidade": 21,
+                    "preco": 8.65
+                },
+                {
+                    "data": "2025-05-09",
+                    "operacao": "venda",
+                    "quantidade": 11,
+                    "preco": 8.67
+                },
+                {
+                    "data": "2025-05-09",
+                    "operacao": "compra",
+                    "quantidade": 11,
+                    "preco": 8.67
+                },
+                {
+                    "data": "2025-05-09",
+                    "operacao": "compra",
+                    "quantidade": 11,
+                    "preco": 8.67
+                }
+            ]
+        },
+        {
+            "ticker": "EDGA11",
+            "tipo": "Escrit\u00f3rio",
+            "preco_medio": 16.745454545454546,
+            "quantidade": 11,
+            "data_inicial": "2025-05-02",
+            "transacoes": [
+                {
+                    "data": "2025-05-02",
+                    "operacao": "compra",
+                    "quantidade": 2,
+                    "preco": 16.5
+                },
+                {
+                    "data": "2025-05-09",
+                    "operacao": "compra",
+                    "quantidade": 3,
+                    "preco": 16.8
+                },
+                {
+                    "data": "2025-05-09",
+                    "operacao": "compra",
+                    "quantidade": 3,
+                    "preco": 16.8
+                },
+                {
+                    "data": "2025-05-09",
+                    "operacao": "compra",
+                    "quantidade": 3,
+                    "preco": 16.8
+                }
+            ]
+        },
+        {
+            "ticker": "PVBI11",
+            "tipo": "escritorio",
+            "preco_medio": 77.85,
+            "quantidade": 1,
+            "data_inicial": "2025-05-09",
+            "transacoes": [
+                {
+                    "data": "2025-05-09",
+                    "operacao": "compra",
+                    "quantidade": 1,
+                    "preco": 77.85
+                }
+            ]
+        }
+    ]
+}
